@@ -4,26 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="create employee">
-      <change afterPath="$PROJECT_DIR$/app/admin/dashboard.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/admin/employees.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/admin/users.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/active_admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/api/v1/employees_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/api_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/active_admin.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20211211054857_devise_create_users.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20211211054859_create_active_admin_comments.rb" afterDir="false" />
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="add vue.js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ruby-version" beforeDir="false" afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/home_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/javascript/packs/hello_vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/packs/hello_vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +168,7 @@
       <workItem from="1638918176504" duration="3850000" />
       <workItem from="1639200457903" duration="757000" />
       <workItem from="1639201527857" duration="1650000" />
-      <workItem from="1639262137720" duration="970000" />
+      <workItem from="1639262137720" duration="1689000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1636788680955</created>
@@ -275,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639201649152</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add vue.js">
+      <created>1639263149068</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1639263149068</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,6 +298,7 @@
     <MESSAGE value="delete devise" />
     <MESSAGE value="init" />
     <MESSAGE value="create employee" />
-    <option name="LAST_COMMIT_MESSAGE" value="create employee" />
+    <MESSAGE value="add vue.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add vue.js" />
   </component>
 </project>
