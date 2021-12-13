@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="add vue.js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/home_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/javascript/app.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/app.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/javascript/packs/hello_vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/packs/hello_vue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/views/home" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -48,6 +47,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/home" />
+    </key>
   </component>
   <component name="RunManager" selected="Rails.Development: metal-god">
     <configuration name="Development: metal-god" type="RailsRunConfigurationType" factoryName="Rails">
@@ -168,7 +172,7 @@
       <workItem from="1638918176504" duration="3850000" />
       <workItem from="1639200457903" duration="757000" />
       <workItem from="1639201527857" duration="1650000" />
-      <workItem from="1639262137720" duration="1689000" />
+      <workItem from="1639262137720" duration="3114000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1636788680955</created>
@@ -268,7 +272,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639263149068</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add vue.js">
+      <created>1639264000448</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1639264000448</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add vue.js">
+      <created>1639264009880</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1639264009880</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
