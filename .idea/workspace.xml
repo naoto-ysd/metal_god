@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="fix">
+      <change afterPath="$PROJECT_DIR$/app/javascript/EmployeeDetailPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/EmployeeIndexPage.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/api/v1/employees_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/api/v1/employees_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/javascript/app.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/app.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/javascript/packs/hello_vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/packs/hello_vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +175,9 @@
       <workItem from="1638918176504" duration="3850000" />
       <workItem from="1639200457903" duration="757000" />
       <workItem from="1639201527857" duration="1650000" />
-      <workItem from="1639262137720" duration="5212000" />
+      <workItem from="1639262137720" duration="6071000" />
+      <workItem from="1639666460112" duration="467000" />
+      <workItem from="1639667117251" duration="786000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1636788680955</created>
@@ -299,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639406521572</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="fix">
+      <created>1639665613596</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1639665613596</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
