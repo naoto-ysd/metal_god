@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="Create newpage.vue" />
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="Create form">
+      <change beforePath="$PROJECT_DIR$/app/javascript/EmployeeNewPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/EmployeeNewPage.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +171,7 @@
       <workItem from="1639201527857" duration="1650000" />
       <workItem from="1639262137720" duration="6071000" />
       <workItem from="1639666460112" duration="467000" />
-      <workItem from="1639667117251" duration="3089000" />
+      <workItem from="1639667117251" duration="3259000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1636788680955</created>
@@ -325,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640098068992</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Create form">
+      <created>1640098352567</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1640098352567</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,6 +368,7 @@
     <MESSAGE value="fix" />
     <MESSAGE value="create link" />
     <MESSAGE value="Create newpage.vue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create newpage.vue" />
+    <MESSAGE value="Create form" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create form" />
   </component>
 </project>
