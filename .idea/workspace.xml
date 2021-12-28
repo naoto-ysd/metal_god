@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="create edit_page">
-      <change beforePath="$PROJECT_DIR$/.idea/metal-god.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/metal-god.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="add routes">
+      <change beforePath="$PROJECT_DIR$/app/controllers/api/v1/employees_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/api/v1/employees_controller.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +174,7 @@
       <workItem from="1639666460112" duration="467000" />
       <workItem from="1639667117251" duration="3259000" />
       <workItem from="1640519969879" duration="3291000" />
-      <workItem from="1640702729212" duration="287000" />
+      <workItem from="1640702729212" duration="437000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1636788680955</created>
@@ -359,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640527778918</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="add routes">
+      <created>1640703089780</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1640703089780</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,6 +402,7 @@
     <MESSAGE value="Create form" />
     <MESSAGE value="fix newpage" />
     <MESSAGE value="create edit_page" />
-    <option name="LAST_COMMIT_MESSAGE" value="create edit_page" />
+    <MESSAGE value="add routes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add routes" />
   </component>
 </project>
