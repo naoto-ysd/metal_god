@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="add routes">
-      <change beforePath="$PROJECT_DIR$/app/controllers/api/v1/employees_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/api/v1/employees_controller.rb" afterDir="false" />
-    </list>
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="fix newpage" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
