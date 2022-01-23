@@ -2,7 +2,7 @@
   <div id="app">
     <p>{{ message }}</p>
   </div>
-  <>
+  <login_form></login_form>
 </template>
 
 <script>

@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from '../app.vue'
-import App from '../loginform.vue'
+import LoginForm from '../login_form.vue'
 
 document.addEventListener('DOMContentLoaded', () => {
   const app = new Vue({
