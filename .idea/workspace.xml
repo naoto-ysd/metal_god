@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="init vue">
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="create loginform">
+      <change afterPath="$PROJECT_DIR$/metal-god-nuxt/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/javascript/app.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/app.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/javascript/loginform.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/login_form.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/javascript/packs/hello_vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/packs/hello_vue.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/metal-god-nuxt" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -27,7 +26,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="20r2wDZb89ST3lhtwRAc7WmA0EC" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -48,6 +47,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="vuejs.nuxt.types-notification-shown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -181,6 +181,7 @@
       <workItem from="1639667117251" duration="3259000" />
       <workItem from="1640519969879" duration="3291000" />
       <workItem from="1640702729212" duration="437000" />
+      <workItem from="1643552941017" duration="342000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1636788680955</created>
@@ -427,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642863517115</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="create loginform">
+      <created>1642949801353</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1642949801353</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,7 +455,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add" />
     <MESSAGE value="Add gem" />
     <MESSAGE value="Add devise" />
     <MESSAGE value="Create member.rb" />
@@ -472,6 +479,7 @@
     <MESSAGE value="Delete activeadmin" />
     <MESSAGE value="Delete emloyees" />
     <MESSAGE value="init vue" />
-    <option name="LAST_COMMIT_MESSAGE" value="init vue" />
+    <MESSAGE value="create loginform" />
+    <option name="LAST_COMMIT_MESSAGE" value="create loginform" />
   </component>
 </project>
