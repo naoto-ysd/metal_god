@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="create loginform">
-      <change afterPath="$PROJECT_DIR$/metal-god-nuxt/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="init nuxt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal-god-nuxt/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/metal-god-nuxt/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal-god-nuxt/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/metal-god-nuxt/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal-god-nuxt/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/metal-god-nuxt/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal-god-nuxt/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/metal-god-nuxt/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +183,7 @@
       <workItem from="1639667117251" duration="3259000" />
       <workItem from="1640519969879" duration="3291000" />
       <workItem from="1640702729212" duration="437000" />
-      <workItem from="1643552941017" duration="342000" />
+      <workItem from="1643552941017" duration="1182000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1636788680955</created>
@@ -435,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642949801353</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="init nuxt">
+      <created>1643553293996</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1643553293996</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +464,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add gem" />
     <MESSAGE value="Add devise" />
     <MESSAGE value="Create member.rb" />
     <MESSAGE value="introduce ActiveAdmin" />
@@ -480,6 +488,7 @@
     <MESSAGE value="Delete emloyees" />
     <MESSAGE value="init vue" />
     <MESSAGE value="create loginform" />
-    <option name="LAST_COMMIT_MESSAGE" value="create loginform" />
+    <MESSAGE value="init nuxt" />
+    <option name="LAST_COMMIT_MESSAGE" value="init nuxt" />
   </component>
 </project>
