@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="create backend" />
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="create backend">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend" beforeDir="false" afterPath="$PROJECT_DIR$/backend" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/metal-god-nuxt" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -26,8 +29,11 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -185,6 +191,8 @@
       <workItem from="1640519969879" duration="3291000" />
       <workItem from="1640702729212" duration="437000" />
       <workItem from="1643552941017" duration="342000" />
+      <workItem from="1644244370286" duration="237000" />
+      <workItem from="1644244619172" duration="693000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1636788680955</created>
@@ -438,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642949801353</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="create backend">
+      <created>1644244521903</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1644244521903</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,7 +473,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add gem" />
     <MESSAGE value="Add devise" />
     <MESSAGE value="Create member.rb" />
     <MESSAGE value="introduce ActiveAdmin" />
@@ -483,6 +497,7 @@
     <MESSAGE value="Delete emloyees" />
     <MESSAGE value="init vue" />
     <MESSAGE value="create loginform" />
-    <option name="LAST_COMMIT_MESSAGE" value="create loginform" />
+    <MESSAGE value="create backend" />
+    <option name="LAST_COMMIT_MESSAGE" value="create backend" />
   </component>
 </project>
