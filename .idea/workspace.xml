@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="create backend">
+      <change afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend" beforeDir="false" afterPath="$PROJECT_DIR$/backend" afterDir="false" />
     </list>
@@ -192,7 +193,7 @@
       <workItem from="1640702729212" duration="437000" />
       <workItem from="1643552941017" duration="342000" />
       <workItem from="1644244370286" duration="237000" />
-      <workItem from="1644244619172" duration="693000" />
+      <workItem from="1644244619172" duration="1294000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1636788680955</created>
@@ -453,7 +454,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644244521903</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="create backend">
+      <created>1644245969340</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1644245969340</updated>
+    </task>
+    <task id="LOCAL-00039" summary="create backend">
+      <created>1644246012399</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1644246012399</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
