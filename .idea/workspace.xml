@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="create vue and routes" />
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="create post controller">
+      <change afterPath="$PROJECT_DIR$/backend/app/controllers/api/v1/posts_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,14 +199,7 @@
       <workItem from="1644506184336" duration="980000" />
       <workItem from="1644676120952" duration="5014000" />
       <workItem from="1645109056150" duration="1407000" />
-      <workItem from="1645280531124" duration="303000" />
-    </task>
-    <task id="LOCAL-00004" summary="Create member.rb">
-      <created>1638110550894</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1638110550894</updated>
+      <workItem from="1645280531124" duration="632000" />
     </task>
     <task id="LOCAL-00005" summary="Create member.rb">
       <created>1638111583608</created>
@@ -541,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645280618613</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="create post controller">
+      <created>1645281157957</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1645281157957</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +564,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="delete mebers" />
     <MESSAGE value="delete devise" />
     <MESSAGE value="init" />
     <MESSAGE value="create employee" />
@@ -586,6 +588,7 @@
     <MESSAGE value="Create frontend" />
     <MESSAGE value="fix config frontend" />
     <MESSAGE value="create vue and routes" />
-    <option name="LAST_COMMIT_MESSAGE" value="create vue and routes" />
+    <MESSAGE value="create post controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="create post controller" />
   </component>
 </project>
