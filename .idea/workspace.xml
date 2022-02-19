@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="create post controller">
-      <change beforePath="$PROJECT_DIR$/.idea/metal_god.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/metal_god.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="fix bug" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,13 +196,6 @@
       <workItem from="1644506184336" duration="980000" />
       <workItem from="1644676120952" duration="5014000" />
       <workItem from="1645109056150" duration="1407000" />
-    </task>
-    <task id="LOCAL-00002" summary="Add gem">
-      <created>1637937943633</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1637937943633</updated>
     </task>
     <task id="LOCAL-00003" summary="Add devise">
       <created>1637938200363</created>
@@ -543,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645109677437</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="fix bug">
+      <created>1645282747863</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1645282747863</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,8 +560,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="upgrade Ruby" />
-    <MESSAGE value="delete mebers" />
     <MESSAGE value="delete devise" />
     <MESSAGE value="init" />
     <MESSAGE value="create employee" />
@@ -588,6 +583,8 @@
     <MESSAGE value="update ruby 3.1.0" />
     <MESSAGE value="Create frontend" />
     <MESSAGE value="fix config frontend" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix config frontend" />
+    <MESSAGE value="bug fix" />
+    <MESSAGE value="fix bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix bug" />
   </component>
 </project>
