@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="Create frontend">
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="fix config frontend">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/nuxt.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/NuxtLogo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Logo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,14 +199,7 @@
       <workItem from="1644385064249" duration="484000" />
       <workItem from="1644506184336" duration="980000" />
       <workItem from="1644676120952" duration="5014000" />
-      <workItem from="1645109056150" duration="548000" />
-    </task>
-    <task id="LOCAL-00001" summary="add">
-      <created>1636788680955</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1636788680955</updated>
+      <workItem from="1645109056150" duration="1407000" />
     </task>
     <task id="LOCAL-00002" summary="Add gem">
       <created>1637937943633</created>
@@ -545,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645109143685</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="fix config frontend">
+      <created>1645109677437</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1645109677437</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +564,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="introduce ActiveAdmin" />
     <MESSAGE value="upgrade Ruby" />
     <MESSAGE value="delete mebers" />
     <MESSAGE value="delete devise" />
@@ -590,6 +588,7 @@
     <MESSAGE value="create backend" />
     <MESSAGE value="update ruby 3.1.0" />
     <MESSAGE value="Create frontend" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create frontend" />
+    <MESSAGE value="fix config frontend" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix config frontend" />
   </component>
 </project>
