@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="create post controller">
-      <change afterPath="$PROJECT_DIR$/backend/app/controllers/api/v1/posts_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="fix bug" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,8 +59,8 @@
   <component name="RubyModuleManagerSettings">
     <option name="blackListedRootsPaths">
       <list>
-        <option value="$PROJECT_DIR$" />
         <option value="$PROJECT_DIR$/backend" />
+        <option value="$PROJECT_DIR$" />
       </list>
     </option>
   </component>
@@ -199,7 +196,20 @@
       <workItem from="1644506184336" duration="980000" />
       <workItem from="1644676120952" duration="5014000" />
       <workItem from="1645109056150" duration="1407000" />
-      <workItem from="1645280531124" duration="632000" />
+    </task>
+    <task id="LOCAL-00003" summary="Add devise">
+      <created>1637938200363</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637938200363</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create member.rb">
+      <created>1638110550894</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638110550894</updated>
     </task>
     <task id="LOCAL-00005" summary="Create member.rb">
       <created>1638111583608</created>
@@ -523,28 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645109677437</updated>
     </task>
-    <task id="LOCAL-00051" summary="create vue and routes">
-      <created>1645280582977</created>
+    <task id="LOCAL-00051" summary="fix bug">
+      <created>1645282747863</created>
       <option name="number" value="00051" />
       <option name="presentableId" value="LOCAL-00051" />
       <option name="project" value="LOCAL" />
-      <updated>1645280582977</updated>
+      <updated>1645282747863</updated>
     </task>
-    <task id="LOCAL-00052" summary="create vue and routes">
-      <created>1645280618613</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1645280618613</updated>
-    </task>
-    <task id="LOCAL-00053" summary="create post controller">
-      <created>1645281157957</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1645281157957</updated>
-    </task>
-    <option name="localTasksCounter" value="54" />
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,8 +583,8 @@
     <MESSAGE value="update ruby 3.1.0" />
     <MESSAGE value="Create frontend" />
     <MESSAGE value="fix config frontend" />
-    <MESSAGE value="create vue and routes" />
-    <MESSAGE value="create post controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="create post controller" />
+    <MESSAGE value="bug fix" />
+    <MESSAGE value="fix bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix bug" />
   </component>
 </project>
