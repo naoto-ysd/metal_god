@@ -5,7 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="create backend">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/metal_god.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/metal_god.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/assets/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/components/NuxtLogo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/components/Tutorial.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/components/VuetifyLogo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/layouts/default.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/layouts/error.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/nuxt.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/pages/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/pages/inspire.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/static/v.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/static/vuetify-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/store/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meal_front/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,6 +218,7 @@
       <workItem from="1645109056150" duration="1407000" />
       <workItem from="1646059946808" duration="303000" />
       <workItem from="1646461332989" duration="56000" />
+      <workItem from="1646574064619" duration="253000" />
     </task>
     <task id="LOCAL-00004" summary="Create member.rb">
       <created>1638110550894</created>
