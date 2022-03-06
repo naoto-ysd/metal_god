@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="create api" />
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ruby-version" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,14 +200,7 @@
       <workItem from="1645109056150" duration="1407000" />
       <workItem from="1646059946808" duration="303000" />
       <workItem from="1646461332989" duration="56000" />
-      <workItem from="1646574064619" duration="1075000" />
-    </task>
-    <task id="LOCAL-00006" summary="introduce ActiveAdmin">
-      <created>1638370495085</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1638370495085</updated>
+      <workItem from="1646574064619" duration="1371000" />
     </task>
     <task id="LOCAL-00007" summary="upgrade Ruby">
       <created>1638377131526</created>
@@ -542,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646574947595</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="fix">
+      <created>1646575447199</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1646575447199</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +567,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="create employee" />
     <MESSAGE value="add vue.js" />
-    <MESSAGE value="fix" />
     <MESSAGE value="create link" />
     <MESSAGE value="Create newpage.vue" />
     <MESSAGE value="Create form" />
@@ -587,6 +589,7 @@
     <MESSAGE value="create backend" />
     <MESSAGE value="create somefile for frontend" />
     <MESSAGE value="create api" />
-    <option name="LAST_COMMIT_MESSAGE" value="create api" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>
