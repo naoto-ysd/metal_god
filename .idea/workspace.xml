@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="fix">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ruby-version" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +200,8 @@
       <workItem from="1645109056150" duration="1407000" />
       <workItem from="1646059946808" duration="303000" />
       <workItem from="1646461332989" duration="56000" />
-      <workItem from="1646574064619" duration="1371000" />
+      <workItem from="1646574064619" duration="1813000" />
+      <workItem from="1646647434351" duration="1329000" />
     </task>
     <task id="LOCAL-00007" summary="upgrade Ruby">
       <created>1638377131526</created>
