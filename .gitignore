@@ -23,3 +23,7 @@ api/.bundle
 
 # add
 .idea/workspace.xml
+
+# nuxt
+/metal_front/node_modules/
+
