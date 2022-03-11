@@ -1,5 +1,5 @@
-# Created by .ignore support plugin (hsz.mobi)
-### Node template
+# Nuxt
+
 # Logs
 /metal_front/logs
 /metal_front/*.log
@@ -88,3 +88,29 @@ metal_front/.DS_Store
 
 # Vim swap files
 metal_front/*.swp
+
+# api
+
+# Ignore bundler config.
+api/.bundle
+
+# Ignore all logfiles and tempfiles.
+api/log/*
+api/tmp/*
+!api/log/.keep
+!api/tmp/.keep
+
+# Ignore pidfiles, but keep the directory.
+api/tmp/pids/*
+!api/tmp/pids/
+!api/tmp/pids/.keep
+
+# Ignore uploaded files in development.
+api/storage/*
+!api/storage/.keep
+api/tmp/storage/*
+!api/tmp/storage/
+!api/tmp/storage/.keep
+
+# Ignore master key for decrypting credentials and more.
+api/config/master.key
