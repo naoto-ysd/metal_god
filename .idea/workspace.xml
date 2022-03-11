@@ -4,9 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="fix">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="create api">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/.ruby-version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/Rakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/app/channels/application_cable/channel.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/app/channels/application_cable/connection.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/app/controllers/application_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/app/controllers/concerns/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/app/jobs/application_job.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/app/mailers/application_mailer.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/app/models/application_record.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/app/models/concerns/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/app/views/layouts/mailer.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/app/views/layouts/mailer.text.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/bin/rails" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/bin/rake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/bin/setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config.ru" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/application.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/boot.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/cable.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/credentials.yml.enc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/database.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/environment.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/environments/development.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/environments/production.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/environments/test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/initializers/cors.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/initializers/filter_parameter_logging.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/initializers/inflections.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/locales/en.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/puma.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/routes.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/config/storage.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/db/seeds.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/lib/tasks/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/log/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/storage/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/test/channels/application_cable/connection_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/test/controllers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/test/fixtures/files/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/test/integration/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/test/mailers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/test/models/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/test/test_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/tmp/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/tmp/pids/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/tmp/storage/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metal_backend/vendor/.keep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,28 +254,9 @@
       <workItem from="1646059946808" duration="303000" />
       <workItem from="1646461332989" duration="56000" />
       <workItem from="1646574064619" duration="1813000" />
-      <workItem from="1646647434351" duration="1329000" />
-    </task>
-    <task id="LOCAL-00007" summary="upgrade Ruby">
-      <created>1638377131526</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1638377131526</updated>
-    </task>
-    <task id="LOCAL-00008" summary="delete mebers">
-      <created>1638629146591</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1638629146591</updated>
-    </task>
-    <task id="LOCAL-00009" summary="delete devise">
-      <created>1638629406020</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1638629406020</updated>
+      <workItem from="1646647434351" duration="2512000" />
+      <workItem from="1646957713017" duration="605000" />
+      <workItem from="1647008319043" duration="1985000" />
     </task>
     <task id="LOCAL-00010" summary="delete devise">
       <created>1638629954286</created>
@@ -546,7 +580,28 @@
       <option name="project" value="LOCAL" />
       <updated>1646575447199</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="fix gitignore">
+      <created>1646699374215</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1646699374215</updated>
+    </task>
+    <task id="LOCAL-00057" summary="create api">
+      <created>1647009693947</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1647009693948</updated>
+    </task>
+    <task id="LOCAL-00058" summary="create api">
+      <created>1647010202435</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1647010202435</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -566,7 +621,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="create employee" />
     <MESSAGE value="add vue.js" />
     <MESSAGE value="create link" />
     <MESSAGE value="Create newpage.vue" />
@@ -589,8 +643,9 @@
     <MESSAGE value="fix bug" />
     <MESSAGE value="create backend" />
     <MESSAGE value="create somefile for frontend" />
-    <MESSAGE value="create api" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="fix gitignore" />
+    <MESSAGE value="create api" />
+    <option name="LAST_COMMIT_MESSAGE" value="create api" />
   </component>
 </project>
