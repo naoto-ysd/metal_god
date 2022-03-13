@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="create api">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/metal_god.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/metal_god.iml" afterDir="false" />
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="edit gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -205,13 +203,6 @@
       <workItem from="1646647434351" duration="2512000" />
       <workItem from="1646957713017" duration="605000" />
       <workItem from="1647008319043" duration="2319000" />
-    </task>
-    <task id="LOCAL-00011" summary="init">
-      <created>1639199920344</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1639199920344</updated>
     </task>
     <task id="LOCAL-00012" summary="create employee">
       <created>1639201626415</created>
@@ -549,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647010427316</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="edit gitignore">
+      <created>1647013907750</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1647013907750</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,7 +567,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add vue.js" />
     <MESSAGE value="create link" />
     <MESSAGE value="Create newpage.vue" />
     <MESSAGE value="Create form" />
@@ -594,6 +591,7 @@
     <MESSAGE value="fix" />
     <MESSAGE value="fix gitignore" />
     <MESSAGE value="create api" />
-    <option name="LAST_COMMIT_MESSAGE" value="create api" />
+    <MESSAGE value="edit gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit gitignore" />
   </component>
 </project>
