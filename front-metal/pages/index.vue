@@ -1,10 +1,12 @@
 <template>
   <v-row justify="center" align="center">
     <v-col cols="12" sm="8" md="6">
-      <v-card class="logo py-4 d-flex justify-center">
+      <div class="text-center">
         <NuxtLogo />
         <VuetifyLogo />
-      </v-card>
+        <v-btn @click="getApi()">GET API</v-btn>
+        <div>{{ message }}</div>
+      </div>
       <v-card>
         <v-card-title class="headline">
           Welcome to the Vuetify + Nuxt.js template
@@ -77,7 +79,30 @@
 </template>
 
 <script>
+import NuxtLogo from '~/components/NuxtLogo.vue'
+import VuetifyLogo from '~/components/VuetifyLogo.vue'
+
 export default {
-  name: 'IndexPage'
+  components: {
+    NuxtLogo,
+    VuetifyLogo
+  },
+  data: () => {
+    return {
+      message: ''
+    }
+  },
+  methods: {
+    getApi() {
+      const url = "/api/v1/posts"
+      this.$axios.get(url)
+        .then((res) => {
+          this.message = res.data
+        })
+        .catch((error) => {
+          console.log(error)
+        })
+    }
+  }
 }
 </script>
