@@ -1,0 +1,19 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  username: <%= ENV['PG_USERNAME'] %>
+  password: <%= ENV['PG_PASSWORD'] %>
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+
+development:
+  <<: *default
+  database: api_metal_development
+test:
+  <<: *default
+  database: api_metal_test
+
+production:
+  <<: *default
+  database: api_metal_production
+  username: api_metal
+  password: <%= ENV["API_METAL_DATABASE_PASSWORD"] %>
