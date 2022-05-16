@@ -114,3 +114,6 @@ api-metal/tmp/storage/*
 
 # Ignore master key for decrypting credentials and more.
 api-metal/config/master.key
+
+.idea/
+

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="edit gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -198,7 +197,11 @@
       <workItem from="1646647434351" duration="2512000" />
       <workItem from="1646957713017" duration="605000" />
       <workItem from="1647008319043" duration="2319000" />
-      <workItem from="1647428708662" duration="2821000" />
+      <workItem from="1647428708662" duration="3625000" />
+      <workItem from="1650688420957" duration="1084000" />
+      <workItem from="1651621367740" duration="74000" />
+      <workItem from="1652534854935" duration="10000" />
+      <workItem from="1652719623574" duration="81000" />
     </task>
     <task id="LOCAL-00012" summary="create employee">
       <created>1639201626415</created>
