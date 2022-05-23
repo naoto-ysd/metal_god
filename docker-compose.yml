@@ -9,7 +9,8 @@ services:
       POSTGRES_PASSWORD: $PG_PASSWORD
     volumes:
       - ./api-metal/tmp/db:/var/lib/postgresql/data
-
+    ports:
+      - 5433:5432
   api-metal:
     stdin_open: true
     tty: true

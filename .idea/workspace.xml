@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="edit gitignore">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,14 +201,8 @@
       <workItem from="1650688420957" duration="1084000" />
       <workItem from="1651621367740" duration="74000" />
       <workItem from="1652534854935" duration="10000" />
-      <workItem from="1652719623574" duration="81000" />
-    </task>
-    <task id="LOCAL-00012" summary="create employee">
-      <created>1639201626415</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1639201626415</updated>
+      <workItem from="1652719623574" duration="5626000" />
+      <workItem from="1653328416374" duration="700000" />
     </task>
     <task id="LOCAL-00013" summary="create employee">
       <created>1639201649152</created>
@@ -546,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647013907750</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="edit gitignore">
+      <created>1652719721013</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1652719721013</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
