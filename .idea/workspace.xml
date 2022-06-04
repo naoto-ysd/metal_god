@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="edit gitignore">
+    <list default="true" id="704ce0f3-e4a1-4efd-8e77-9de3e91df615" name="Changes" comment="edit docker-compose.yml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,14 +201,8 @@
       <workItem from="1651621367740" duration="74000" />
       <workItem from="1652534854935" duration="10000" />
       <workItem from="1652719623574" duration="5626000" />
-      <workItem from="1653328416374" duration="700000" />
-    </task>
-    <task id="LOCAL-00013" summary="create employee">
-      <created>1639201649152</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1639201649152</updated>
+      <workItem from="1653328416374" duration="1117000" />
+      <workItem from="1653482915515" duration="79000" />
     </task>
     <task id="LOCAL-00014" summary="add vue.js">
       <created>1639263149068</created>
@@ -547,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652719721013</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="edit docker-compose.yml">
+      <created>1653329348388</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1653329348388</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -567,7 +567,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="create link" />
     <MESSAGE value="Create newpage.vue" />
     <MESSAGE value="Create form" />
     <MESSAGE value="fix newpage" />
@@ -592,6 +591,7 @@
     <MESSAGE value="fix gitignore" />
     <MESSAGE value="create api" />
     <MESSAGE value="edit gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit gitignore" />
+    <MESSAGE value="edit docker-compose.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit docker-compose.yml" />
   </component>
 </project>
