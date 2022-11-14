@@ -1,0 +1,7 @@
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+node_modules
